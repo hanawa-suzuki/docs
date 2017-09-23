@@ -13,7 +13,9 @@ If you want to use it as a command line tool, something like the grunt CLI, then
 
 To download packages globally, you simply use the command `npm install -g <package>`, e.g.:
 
-```
+
+
+
 npm install -g jshint
 ```
 
